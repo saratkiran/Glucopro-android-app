@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="test_title">Test Glucose Levels</string>
+    <string name="test_read_from_meter">Load from MyGlucoHealth Meter</string>
+    <string name="test_manual_glucose_level_hint">Manually enter value</string>
+    <string name="test_manual_submit">Submit Manual Entry</string>
+    
+</resources>

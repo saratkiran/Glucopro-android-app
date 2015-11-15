@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="user_info_default_text">Here are your latest statistics:\n\nLast blood sugar test: 122\nAverage (week) blood sugar: 118\nAverage daily carb intake: 66g</string>
+
+</resources>

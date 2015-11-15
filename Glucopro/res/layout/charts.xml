@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <hippocraticapps.glucopro.views.Chart
+        android:id="@+id/charts"
+        android:tag="Shift Viewer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    />
+    
+    <TextView
+        android:id="@+id/charts_label"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="@string/charts_default_label"
+        android:textSize="9pt" />
+
+    <TextView
+        android:id="@+id/charts_xaxis_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:text="time" />
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<resources>
+    
+    <string name="meal_input_question">Scan your product( requires barcode)</string>
+    <string name="meal_input_submit">Submit</string>
+    <string name="meal_resturant_input">Eating in a Restaurant ??</string>
+    <string name="meal_eveythingelse_input">Anything Else ?</string>
+    
+</resources>

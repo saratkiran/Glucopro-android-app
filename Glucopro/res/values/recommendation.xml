@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="recommendation_default_text">You should not be seeing this...</string>
+    <string name="recommendation_acknowledge">Ok, I\'ve taken my dosage.</string>
+
+</resources>

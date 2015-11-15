@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="find_rest_wgps">Automatically detect my restaurant (requires GPS)</string>
+    <string name="find_rest_manual">Choose manually from restaurant list</string>
+    
+</resources>

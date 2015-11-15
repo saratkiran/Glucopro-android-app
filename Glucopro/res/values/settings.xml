@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<color name="settings_background">#1e90ff</color>
+	<color name="settings_shift_circle">#ff0000</color>
+	<color name="settings_text">#333333</color>
+	<color name="settings_offset_crosshair">#000000</color>
+	<color name="settings_offset_selector">#000000</color>
+	
+	<string name="settings_label">Align the day shifts to your typical daily schedule.</string>
+
+</resources>

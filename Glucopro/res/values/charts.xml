@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="charts_default_label">Chart of your glucose levels over time.</string>
+
+</resources>
